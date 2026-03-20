@@ -1,0 +1,9 @@
+# Ignore system files
+*.log
+*.tmp
+
+# Python
+__pycache__/
+
+# Databricks / build
+.env
